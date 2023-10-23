@@ -1,6 +1,6 @@
 from pathlib import Path
 
-_HOMEFOLDER = Path.home() / '.pymobiledevice3'
+_HOMEFOLDER = Path.home() / '.dotfiles/.pymobiledevice3'
 
 
 def get_home_folder() -> Path:
